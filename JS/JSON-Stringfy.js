@@ -5,6 +5,7 @@ console.log(stringDefine);
 /**
  * output: { id: 1, name: 'ami borokuks', profession: 'actor' }
 {"id":1,"name":"ami borokuks","profession":"actor"}
+
  */
 
 // more
